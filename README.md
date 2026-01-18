@@ -38,7 +38,7 @@ Welcome to my **GitHub E-Portfolio**! This repository showcases my academic work
 * Includes classes such as `Pointer` and `HighlightArea`
 * Demonstrates class interaction, animation, and angle calculations
 
-📁 Repository: `Pointer-Game`
+📁 Repository: SEM-2/SECJ1023
 
 ---
 
