@@ -8,7 +8,7 @@ Welcome to my **GitHub E-Portfolio**! This repository showcases my academic work
 
 * 🎓 Student in Computer Science (Computer Network and Security)
 * 📍 I'm From Indonesia
-* 🌱 Currently learning: C++, Networking (ARP, Switching)
+* 🌱 Currently learning: C++, Networking (ARP, Switching), SQL
 
 ---
 
@@ -26,6 +26,8 @@ Welcome to my **GitHub E-Portfolio**! This repository showcases my academic work
 * Visual Studio Code
 * RStudio
 * Cisco Packet Tracer
+* SQL (MySQL / basic queries, joins)
+* Database Design (ERD – basic)
 
 ---
 
